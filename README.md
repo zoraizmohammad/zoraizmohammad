@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mohammad Zoraiz</h1>
 <h3 align="center">A student at Duke University Studying ECE, Physics, & CS</h3>
 
