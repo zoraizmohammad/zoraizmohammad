@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FlavorFlow](https://github.com/zoraizmohammad/FlavorFlow)
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **Quantum Computing** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
 
