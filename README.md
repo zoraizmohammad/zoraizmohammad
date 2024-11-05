@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
+- 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
