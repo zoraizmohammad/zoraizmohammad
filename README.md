@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Quantum Computing** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohammad-zoraiz)
 
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
 
