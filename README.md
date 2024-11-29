@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Quantum Computing** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohammad-zoraiz)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
 
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zoraizmohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoraizmohammad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-zoraiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-zoraiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
