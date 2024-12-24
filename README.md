@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FlavorFlow](https://github.com/zoraizmohammad/FlavorFlow) & [A Gene Editing Classifier with LifeEdit](https://github.com/zoraizmohammad/life-edit-gene-classifier)
 
-- 🌱 I’m currently learning **Quantum Computing** using [Qiskit](https://www.ibm.com/quantum/qiskit)
+- 🌱 I’m currently learning **Quantum Computing Applications** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
 
