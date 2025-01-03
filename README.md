@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoraizmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="zoraizmohammad" /> </p>
 
-- 🔭 I’m currently working on [FlavorFlow](https://github.com/zoraizmohammad/FlavorFlow) & [A Gene Editing Classifier with LifeEdit](https://github.com/zoraizmohammad/life-edit-gene-classifier)
+- 🔭 I’m currently working on [FlavorFlow](https://github.com/zoraizmohammad/FlavorFlow) & [A Gene Editing Classifier for LifeEdit](https://github.com/zoraizmohammad/LifeEdit-geneclassifier)
 
 - 🌱 I’m currently learning **Quantum Computing Applications** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
