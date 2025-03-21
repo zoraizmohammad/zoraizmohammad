@@ -3,13 +3,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoraizmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="zoraizmohammad" /> </p>
 
-- 🔭 I’m currently working on [FlavorFlow](https://github.com/zoraizmohammad/FlavorFlow) & [A Gene Editing Classifier for LifeEdit](https://github.com/zoraizmohammad/LifeEdit-geneclassifier)
+- 🔭 I’m currently working on [PMD](https://github.com/zoraizmohammad/pmd) & [CipherShield](https://github.com/zoraizmohammad/cipher-shield)
 
 - 🌱 I’m currently learning **Quantum Computing Applications** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
 
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
+
+
+🌎 **Recent Open Source Contributions:**  
+
+I’ve had the privilege of working on several open-source projects, including:  
+
+- **Gene Expression & Cell Editing Machine Learning Classifier** with *LifeEdit Therapeutics*  
+  _Team: Sahil Patel, Amy Liu, Soham Jin, Islam Tayeb_  
+
+- **SonicSync:** A Wearable Psychoacoustic Testing Apparatus in collaboration with *Garmin International Inc.* & *Duke Pratt School of Engineering*  
+  _Team: Arnav Nanda, Dhruva Barua, Roudy Mohamed_  
+
+- **AcademicInsights:** An NLP-powered EdTech web extension applying behavioral data to enhance learning experiences  
+
+- **PMD:** A tool for creating private, password-access markdown repositories *(In development)*  
+
+- **Quantum-Edu PCA:** A Quantum Principal Component Analysis (PCA) model for Educational Data  
+
+- **FlavorFlow:** A personalized AI-driven Recipe Generator using Markov Chains *(On hiatus)*  
+
+- **Helian:** A collaboration with *Product@Duke*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
