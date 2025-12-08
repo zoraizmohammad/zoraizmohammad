@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoraizmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="zoraizmohammad" /> </p>
 
-- 🔭 I’m currently working on [PMD](https://github.com/zoraizmohammad/pmd) & [CipherShield](https://github.com/zoraizmohammad/cipher-shield)
+- 🔭 I’m currently working on [POV_Hologram](https://github.com/zoraizmohammad/pmd) & [Quantum Baysian Learner Model](https://github.com/zoraizmohammad/qb-learner-compression)
 
 - 🌱 I’m currently learning **Quantum Computing Applications** using [Qiskit](https://www.ibm.com/quantum/qiskit)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zoraizmohammad)
 
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
-
 
 🌎 **Recent Open Source Contributions:**  
 
