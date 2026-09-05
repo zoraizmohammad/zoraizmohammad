@@ -42,3 +42,54 @@ My work sits where learned systems meet things that have to actually run — age
 > When a coding agent hears you, it has to decide what to do about the parts it did not quite catch. Treating that decision as a cost-sensitive value-of-information problem — where the cost is a measured property of the code being changed — rather than a confidence threshold.
 
 More soon.
+
+---
+
+## Ventures
+
+**Provenia Bio** — a neuro-symbolic drug discovery system. In development.
+
+**[Qadam · قدم](https://github.com/zoraizmohammad/qadam)** — *"a step forward."* An accessible biotech venture that packs a whole prosthetics clinic into one portable case. Roughly **65 million people** need a prosthetic or orthotic device and only about **1 in 10** has access to one — the barrier is rarely the limb itself, but the clinician, the lab, the power, and the supply chain around it. Qadam makes that whole apparatus portable: one ruggedized, solar-powered case carrying the fitting technology, tools, and standardized parts to custom-fit **15–20 limbs anywhere**, plus the open IP to make more. The intelligence lives in the fitting process; the limb the patient keeps is robust, low-cost, and purely mechanical — nothing to charge, brick, or break. · [live](https://qadam-blue-six.vercel.app)
+
+---
+
+## Selected work
+
+**Agentic AI and LLM systems**
+
+| Project | What it is |
+|---|---|
+| [**ombench**](https://github.com/zoraizmohammad/ombench) | Memory and backtesting for operational agents — a bitemporal history substrate, a knowledge-base compiler, and a deterministic replay harness that measures whether compiled memory *actually* improves an agent on real historical tasks |
+| [**targetONCO**](https://github.com/zoraizmohammad/targetONCO) | End-to-end agentic precision oncology, from X-ray radiology to spatial proteomics tissue analysis, orchestrated by a single agent system |
+| [**agentic-pollination-uav**](https://github.com/zoraizmohammad/agentic-pollination-uav) | Autonomous pollination UAV — mission simulation and a real flight stack sharing one state machine, with an LLM planner, RAG mission memory, and a UCB1 bandit over detection thresholds |
+
+**Quantum**
+
+| Project | What it is |
+|---|---|
+| [**qb-learner-compression**](https://github.com/zoraizmohammad/qb-learner-compression) | Hardware-aware compression of a quantum Bayesian learner, benchmarked against post-transpile two-qubit gate count on real IBM hardware · *QCE26* |
+| [**DuQuantum**](https://github.com/zoraizmohammad/duqauntum) | Duke quantum computing community site |
+
+**Health, bio, and genomics**
+
+| Project | What it is |
+|---|---|
+| [**LifeEdit-geneclassifier**](https://github.com/zoraizmohammad/LifeEdit-geneclassifier) | ML classifier built for Life Edit Therapeutics detecting edited vs unedited cells from single-cell expression data |
+| [**RevealGenomics**](https://github.com/zoraizmohammad/RevealGenomics) | BRCA-gene cancer detection model, with Reveal Genomics |
+| [**SonicSync**](https://github.com/zoraizmohammad/SonicSync) | Submersible psychoacoustic wearable delivering audible safety alerts to freedivers, with Garmin · *SIEDS 2024* |
+
+**Security, privacy, and signals**
+
+| Project | What it is |
+|---|---|
+| [**cipher-shield**](https://github.com/zoraizmohammad/cipher-shield) | Aggregate statistics on demographic data without ever decrypting a record — split-key homomorphic encryption with on-chain validation |
+| [**SIDQ**](https://github.com/zoraizmohammad/SIDQ) | Spoof identification under degraded quality |
+
+**Embedded and hardware**
+
+| Project | What it is |
+|---|---|
+| [**fpga-hologram**](https://github.com/zoraizmohammad/fpga-hologram) | Persistence-of-vision rotating hologram on a Nexys A7-100T FPGA |
+| [**atlas-loom**](https://github.com/zoraizmohammad/atlas-loom) | Open-source global exploration viewer |
+
+<sub>Earlier work — <a href="https://github.com/zoraizmohammad/pmd">PMD</a> (encrypted private markdown repositories), <a href="https://github.com/zoraizmohammad/CampusSignals">CampusSignals</a>, <a href="https://github.com/zoraizmohammad/FlavorFlow">FlavorFlow</a> (Markov-chain recipe generation), Quantum-Edu PCA, AcademicInsights, and Helian with Product@Duke.</sub>
