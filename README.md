@@ -86,7 +86,9 @@ More soon.
 
 </details>
 
-## Selected work
+<details>
+<summary><h2>Selected work</h2></summary>
+
 
 <details>
 <summary><b>Agentic AI and LLM systems</b></summary>
@@ -136,6 +138,9 @@ More soon.
 | [**atlas-loom**](https://github.com/zoraizmohammad/atlas-loom) | Open-source global exploration viewer |
 
 </details>
+
+</details>
+
 <details>
 <summary><h2>Awards and research</h2></summary>
 
