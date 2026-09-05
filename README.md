@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zoraiz/)
 [![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mohammad.zoraiz@duke.edu)
 [![GitHub](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoraizmohammad?tab=repositories)
-[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1ravjeT7GnvjEiqJdHDY-uWnFRXbVGPZO/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQGDRYTb37Y94P1KbrR3j_sr19AWCxf_34egeg_pSwgGWoj_7sUbTo5fb34RGZhyBWOjYocLM9GdEBL/pub)
 
 </div>
 
