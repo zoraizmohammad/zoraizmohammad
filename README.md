@@ -16,19 +16,15 @@
 
 ---
 
-<details open>
-<summary><h3>Currently</h3></summary>
+<h3>Currently</h3>
 
 
-**Member of Technical Staff & SDE Intern** at Amazon AGI Lab & Kiro Labs *(May 2026 — present)*
+**Member of Technical Staff & SDE Intern** at Amazon AGI Lab & Kiro Labs *(May 2026 — August 2026)*
 
 **B.S. Electrical & Computer Engineering (AI/ML), Physics, and Computer Science**, with Distinction — Duke University *(2023 — 2027)*
 
 My work sits where learned systems meet things that have to actually run — agents that are measured rather than demoed, quantum circuits benchmarked on real hardware rather than simulators alone, and models that end up on an aircraft or a wearable. Personal site and writing at **[mzoraiz.dev](https://mzoraiz.dev)** *(source — [`mzoraiz-dev`](https://github.com/zoraizmohammad/mzoraiz-dev))*.
 
-</details>
-
----
 
 <details>
 <summary><h2>Experience</h2></summary>
@@ -80,8 +76,6 @@ More soon.
 
 </details>
 
----
-
 <details>
 <summary><h2>Ventures</h2></summary>
 
@@ -91,8 +85,6 @@ More soon.
 **[Qadam · قدم](https://github.com/zoraizmohammad/qadam)** — *"a step forward."* An accessible biotech venture that packs a whole prosthetics clinic into one portable case. Roughly **65 million people** need a prosthetic or orthotic device and only about **1 in 10** has access to one — the barrier is rarely the limb itself, but the clinician, the lab, the power, and the supply chain around it. Qadam makes that whole apparatus portable: one ruggedized, solar-powered case carrying the fitting technology, tools, and standardized parts to custom-fit **15–20 limbs anywhere**, plus the open IP to make more. The intelligence lives in the fitting process; the limb the patient keeps is robust, low-cost, and purely mechanical — nothing to charge, brick, or break. · [live](https://qadam-blue-six.vercel.app)
 
 </details>
-
----
 
 ## Selected work
 
@@ -143,12 +135,6 @@ More soon.
 | [**fpga-hologram**](https://github.com/zoraizmohammad/fpga-hologram) | Persistence-of-vision rotating hologram on a Nexys A7-100T FPGA |
 | [**atlas-loom**](https://github.com/zoraizmohammad/atlas-loom) | Open-source global exploration viewer |
 
-</details>
-<sub>Earlier work — <a href="https://github.com/zoraizmohammad/pmd">PMD</a> (encrypted private markdown repositories), <a href="https://github.com/zoraizmohammad/CampusSignals">CampusSignals</a>, <a href="https://github.com/zoraizmohammad/FlavorFlow">FlavorFlow</a> (Markov-chain recipe generation), Quantum-Edu PCA, AcademicInsights, and Helian with Product@Duke.</sub>
-
----
-
----
 
 <details>
 <summary><h2>Awards and research</h2></summary>
