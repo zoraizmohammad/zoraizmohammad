@@ -135,7 +135,7 @@ More soon.
 | [**fpga-hologram**](https://github.com/zoraizmohammad/fpga-hologram) | Persistence-of-vision rotating hologram on a Nexys A7-100T FPGA |
 | [**atlas-loom**](https://github.com/zoraizmohammad/atlas-loom) | Open-source global exploration viewer |
 
-
+</details>
 <details>
 <summary><h2>Awards and research</h2></summary>
 
